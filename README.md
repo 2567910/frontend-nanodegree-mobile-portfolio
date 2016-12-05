@@ -10,7 +10,7 @@
 
 4. Setup web font loader to prevent render blocking by font load.
 
-: PageSpeed Insights score: **93/100**
+:  PageSpeed Insights score: **93/100**
 
 ####Part 2: Optimize Frames per Second in pizza.html
 
