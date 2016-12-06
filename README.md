@@ -1,5 +1,7 @@
 ## Website Performance Optimization portfolio project
 
+To run the app, download entire directory and open `index.html` in a browser. Or click [here](https://stanleytsao.github.io/frontend-nanodegree-mobile-portfolio/) to see app hosted on GitHub Pages. 
+
 #### Part 1: Optimize PageSpeed Insights score for index.html
 
 1. Optimize images using grunt responsive_images and editing image src links.
